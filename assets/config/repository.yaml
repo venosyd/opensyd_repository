@@ -1,0 +1,7 @@
+###
+### Adicionar isso na pasta 
+### assets/config/ do seu servidor
+###
+
+mongo-addr: -------
+mongo-port: -------
